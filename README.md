@@ -1,7 +1,6 @@
 - 👋 Olá, sou @samuka-santos
 - 👀 Estou interessado em JavaScript 
 - 🌱 Atualmente estou aprendendo HTML e CSS
-- 💞️ Procuro colaborar em ...
 - 📫 Meu instagram: @samuka112358
 
 <!---
