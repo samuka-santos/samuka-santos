@@ -1,4 +1,4 @@
-- 👋 Olá, sou @samuka-santos
+- 👋 Olá, sou Samuel Santos
 - 👀 Estou interessado em JavaScript 
 - 🌱 Atualmente estou aprendendo HTML e CSS
 - 📫 Meu instagram: @samuka112358
