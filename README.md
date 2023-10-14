@@ -1,7 +1,10 @@
-- 👋 Olá, sou Samuel Santos
-- 👀 Estou interessado em JavaScript 
-- 🌱 Atualmente estou aprendendo HTML e CSS
-- 📫 Meu instagram: @samuka112358
+😎 Eu sou um jovem de 17 anos chamado Samuel Santos <br>
+🌐 Estou aprendendo programação e a desenvolver sites <br>
+📚 Sou um menino curioso e sempre pronto para aprender algo novo! <br>
+
+🤳 Meu Instagram: <a target="_blank" href="https://www.instagram.com/samuka112358/">@samuka112358</a>
+
+
 
 <!---
 samuka-santos/samuka-santos é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
