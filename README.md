@@ -1,4 +1,4 @@
-😎 Eu sou um jovem de 17 anos chamado Samuel Santos <br>
+😎 Sou um jovem de 17 anos chamado Samuel Santos <br>
 🌐 Estou aprendendo programação e a desenvolver sites <br>
 📚 Sou um menino curioso e sempre pronto para aprender algo novo! <br>
 
