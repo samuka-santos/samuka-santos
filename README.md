@@ -1,6 +1,6 @@
-😎 Sou um jovem de 17 anos chamado Samuel Santos <br>
+😎 Sou um jovem de 17 anos <br>
 🌐 Estou aprendendo programação e a desenvolver sites <br>
-📚 Sou um menino curioso e sempre pronto para aprender algo novo! <br>
+📚 Sou uma pessoa curiosa e sempre pronta para aprender algo novo! <br>
 
 🤳 Meu Instagram: <a target="_blank" href="https://www.instagram.com/samuka112358/">@samuka112358</a>
 
