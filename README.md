@@ -2,7 +2,7 @@
 🌐 Estou aprendendo programação e a desenvolver sites <br>
 📚 Sou uma pessoa curiosa e sempre pronta para aprender algo novo! <br>
 
-🤳 Meu Instagram: <a target="_blank" href="https://www.instagram.com/samuka112358/">@samuka112358</a>
+🤳 Meu Instagram: <a target="_blank" href="https://www.instagram.com/samuelssilva06">@samuelssilva06</a>
 
 
 
